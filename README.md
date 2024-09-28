@@ -1,23 +1,40 @@
-# Welcome
+<img src="/assets/logo.png?raw=true" width="100">
 
-This is Yet another University Project :)
+# Forest Escape
 
-Yes the code in this repository is awful and the project does not provide much value
+Thank you for visiting :)
 
-**BUT**
+# Project Overview
 
-I love to keep these types of project around to remind myself where I started in my early days of learning to code and how I have grown as a developer since. They inspire me to become even better in the future and allow me to look back at these old types of projects and say **why did I not just do this instead**.
+A simple WinForms game that challenges players to navigate through a maze using their mouse to reach the correct house and win. The game features a visually engaging maze design, complete with walls, and distinct houses at various points throughout the maze.
 
-I hope you enjoy reviewing this codebase, finding bugs, duplicate code and all round bad practices as I have enjoyed building this project back in the day.
+Players begin at a designated starting point and must maneuver their mouse through the maze. The objective is to find and enter the correct house.
 
-# ForestEscape
+# Project Showcase
 
-A simple Winforms Forms Game where you need to traverse a maze with your mouse and enter the correct house to win
+<img src="/assets/showcase1.png?raw=true">
 
-Yes really, that's it :)
+<img src="/assets/showcase2.png?raw=true">
 
-<img src="/assets/screen2.png?raw=true">
+<img src="/assets/showcase3.png?raw=true">
 
-<img src="/assets/screen1.png?raw=true">
+# What to Expect
 
-<img src="/assets/screen3.png?raw=true">
+Projects like this was an integral part of my learnings in software development in general. This repository captures an important phase in my journey as a software developer. So you can expect the following:
+
+### Code Quality:
+The code here is a testament to my early programming skills. You may encounter numerous bugs, terrible inefficiencies, and less-than-ideal coding practices that were part of my learning curve.
+
+### Learning Journey:
+This project was more about the journey than the destination. It helped me understand the basics of software development and laid the foundation for the skills I have today.
+
+### Nostalgia:
+While this project may no longer be relevant, it’s a personal reminder of where I began. It’s a piece of my history that I keep as a benchmark of my progress as a software developer.
+
+# Why This Project is Archived
+This project is in an archived state and is no longer being actively maintained or updated. I’ve chosen to preserve it in its original form as a record of my growth as a developer. It’s a snapshot of a time when I was still finding my footing in the world of coding.
+
+# Final Thoughts
+I hope you find value in exploring this codebase, even if it’s just to see how far one can come from humble beginnings. And if you don't find value in this project I hope it brings a smile to your face as you find many.... many.... cringe worthy practices.
+
+This project may be frozen in time, but the lessons I learned from it continue to influence my work today.
